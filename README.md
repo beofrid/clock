@@ -1,2 +1,3 @@
 # Studies-web
-Simple files of my development studies
+Some files of my development studies
+💻📚💡
