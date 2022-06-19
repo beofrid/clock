@@ -18,7 +18,7 @@ header{ font: bold 28pt monospace;
 
 section { position: fixed;
     margin: 0 auto;
-    margin-top: 2%;
+    margin-top: 100px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -38,5 +38,5 @@ footer {position: absolute;
     color: white; 
     margin-left: 45%;
     text-align: center;
-    margin-top: 15%;
+    margin-top: 400px;
 }
