@@ -1,9 +1,9 @@
 
 
 body{
-background: rgb(0, 0, 0);
-font: normal 30pt monospace;
-color: rgb(0, 0, 0);}
+    background: rgb(0, 0, 0);
+    font: normal 30pt monospace;
+    color: rgb(0, 0, 0);}
 
 header{ font: bold 28pt monospace;
     text-align: center;
@@ -16,13 +16,15 @@ header{ font: bold 28pt monospace;
     }
 
 
-section {display: flex;
+section { position: fixed;
+    margin: 100px 10px 10px 10px;
+    width: 100%;
+    display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
+    flex-wrap: nowrap;
     gap:10px }
     
-       
     div#pt1 {font: normal 75pt arial;
         color: rgb(155, 225, 240);}
     
@@ -30,9 +32,10 @@ section {display: flex;
         color: rgb(155, 225, 240);}
 
 
-footer {
+footer {position: absolute;
     font: normal 12pt times;
-    color: white;
+    color: white; 
+    margin-left: 50%;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 400px;
 }
