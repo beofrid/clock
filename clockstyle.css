@@ -17,7 +17,8 @@ header{ font: bold 28pt monospace;
 
 
 section { position: fixed;
-    margin: 100px 10px 10px 10px;
+    margin: 0 auto;
+    margin-top: 2%;
     width: 100%;
     display: flex;
     align-items: center;
@@ -35,7 +36,7 @@ section { position: fixed;
 footer {position: absolute;
     font: normal 12pt times;
     color: white; 
-    margin-left: 50%;
+    margin-left: 45%;
     text-align: center;
-    margin-top: 400px;
+    margin-top: 15%;
 }
