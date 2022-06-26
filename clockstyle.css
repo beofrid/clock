@@ -33,10 +33,12 @@ section { position: fixed;
         color: rgb(155, 225, 240);}
 
 
-footer {position: absolute;
+footer {position: fixed;
     font: normal 12pt times;
     color: white; 
-    margin-left: 45%;
+    width: 40px;
+    inset: 0;
+    margin: auto;
     text-align: center;
     margin-top: 400px;
 }
