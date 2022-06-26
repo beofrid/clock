@@ -17,10 +17,11 @@ header{ font: bold 28pt monospace;
 
 
 section { position: fixed;
+    display: flex;
     margin: 0 auto;
     margin-top: 100px;
-    width: 100%;
     display: flex;
+    width: 100%;
     align-items: center;
     justify-content: center;
     flex-wrap: nowrap;
