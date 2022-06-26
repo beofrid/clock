@@ -46,6 +46,7 @@ footer {position: fixed;
 }
 
 @media only screen and (max-width: 720px){
-    *{max-width: 100%;}
+    *{max-width: 100%;
+    margin: 5px;}
 }
   
