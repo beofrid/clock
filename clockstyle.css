@@ -3,7 +3,8 @@
 body{
     background: rgb(0, 0, 0);
     font: normal 30pt monospace;
-    color: rgb(0, 0, 0);}
+    color: rgb(0, 0, 0);
+    }
 
 header{ font: bold 28pt monospace;
     text-align: center;
