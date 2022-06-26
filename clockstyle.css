@@ -36,7 +36,7 @@ section { position: fixed;
 footer {position: fixed;
     font: normal 12pt times;
     color: white; 
-    width: 40px;
+    width: 100px;
     inset: 0;
     margin: auto;
     text-align: center;
